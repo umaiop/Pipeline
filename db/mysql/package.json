@@ -1,0 +1,16 @@
+{
+    "author": "Joseph Sutton",
+    "name": "export_to_csv",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "node": "*"
+    },
+    "dependencies": {
+        "mysql": "*",
+        "underscore": "*",
+        "moment" : "*",
+        "when" : "*",
+        "optimist" : "*"
+    }
+}
